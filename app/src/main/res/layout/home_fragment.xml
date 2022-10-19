@@ -51,6 +51,7 @@
             android:layout_height="wrap_content"
             android:textSize="18sp"
             android:textColor="#555555"
+            android:textAllCaps="true"
             android:layout_marginTop="13dp"
             android:text="@string/gdgs_are"
             app:layout_constraintEnd_toStartOf="@id/end_grid"
